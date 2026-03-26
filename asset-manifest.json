@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cyberdef-main/static/css/main.78c74640.css",
-    "main.js": "/Cyberdef-main/static/js/main.981fbcc7.js",
+    "main.js": "/Cyberdef-main/static/js/main.1b249de5.js",
     "index.html": "/Cyberdef-main/index.html",
     "main.78c74640.css.map": "/Cyberdef-main/static/css/main.78c74640.css.map",
-    "main.981fbcc7.js.map": "/Cyberdef-main/static/js/main.981fbcc7.js.map"
+    "main.1b249de5.js.map": "/Cyberdef-main/static/js/main.1b249de5.js.map"
   },
   "entrypoints": [
     "static/css/main.78c74640.css",
-    "static/js/main.981fbcc7.js"
+    "static/js/main.1b249de5.js"
   ]
 }
