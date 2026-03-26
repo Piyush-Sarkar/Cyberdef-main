@@ -135,7 +135,7 @@ const Login = ({ setUserProfile }) => {
     // Start loading
     setLoading(true);
 
-    const API_URL = 'https://backendserver-rp1l.onrender.com/';
+    const API_URL = 'https://cyberdef-main.vercel.app/';
 
     if (isSignUp) {
       // SIGN UP: Call Flask API
